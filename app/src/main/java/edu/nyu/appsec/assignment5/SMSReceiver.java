@@ -1,4 +1,6 @@
-package edu.nyu.appsec.assignment5;
+// REMOVED - unnecessary functionality
+
+/* package edu.nyu.appsec.assignment5;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
@@ -48,4 +50,4 @@ public class SMSReceiver extends BroadcastReceiver {
             }
         }
     }
-}
+} */
